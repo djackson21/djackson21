@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi everyone! My name is djackson21 👋
+
+### My Focus 🤓
+I primarily like to focus on cloud environment
+
+### My Background
+I graduated from a 4-year university with a B.S in Computer Science. I have a few years of work experience in Software Engineering.
+
+### Contact Me
+please feel free to contact me via LinkedIn.
 
 <!--
 **djackson21/djackson21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
