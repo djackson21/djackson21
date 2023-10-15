@@ -1,7 +1,7 @@
 ### Hi everyone! My name is djackson21 👋
 
 ### My Focus 🤓
-I primarily like to focus on cloud environment
+I primarily like to focus on cloud environment and DevOps
 
 ### My Background
 I graduated from a 4-year university with a B.S in Computer Science. I have a few years of work experience in Software Engineering.
