@@ -6,6 +6,14 @@ I primarily like to focus on cloud environment and DevOps
 ### My Background
 I graduated from a 4-year university with a B.S in Computer Science. I have a few years of work experience in Software Engineering.
 
+🌟 **Key Skills**  
+- **Languages:** Python, JavaScript  
+- **Frameworks & Tools:** React, Spring Boot, Jenkins, Terraform  
+- **Cloud Platforms:** AWS, Google Cloud Platform, Azure  
+- **DevOps:** CI/CD, Kubernetes, Docker, ArgoCD  
+- **Databases:** PostgresSQL, MySQL  
+- **Other Tools:** Prometheus, Grafana, JIRA, Linux  
+
 ### Contact Me
 please feel free to contact me via LinkedIn.
 
